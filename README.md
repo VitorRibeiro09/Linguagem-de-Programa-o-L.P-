@@ -1,2 +1,2 @@
 # Linguagem-de-Programação-L.P-
-Repositório para conteúdo da aula de L.P (Fatec).
+Repositório para conteúdo da aula de linguagem de programção (Fatec), 2 semestre.
