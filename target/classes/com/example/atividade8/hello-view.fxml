@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="461.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/24.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextField accessibleRole="IMAGE_VIEW" layoutX="264.0" layoutY="205.0" style="-fx-border-color: white;" />
+      <TextField accessibleRole="IMAGE_VIEW" layoutX="264.0" layoutY="145.0" style="-fx-border-color: white;" />
+      <TextField accessibleRole="IMAGE_VIEW" layoutX="264.0" layoutY="276.0" style="-fx-border-color: white;" />
+   </children>
+</AnchorPane>
