@@ -1,0 +1,2 @@
+Main-Class: com.djavan.navio_crud.Main
+Class-Path: lib/sqlite-jdbc-3.45.1.0.jar
